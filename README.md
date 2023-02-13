@@ -47,8 +47,8 @@ Upon launching the JointSavings Smart Contract Application  you will be greeted 
 ![20-1-open-remix-file-browser](https://user-images.githubusercontent.com/113739944/218256015-bec81222-52cb-4680-bdc8-9f35d9603947.png)
 click the “File explorers” button in the upper-left area of the window. Then click the button on the far right with the arrow pointing up out of the box. Upload the 'joint_savings.sol'
 
-## RemixIde
-![Screenshot_20230212_110422](https://user-images.githubusercontent.com/113739944/218394027-ffc1709a-d90c-4b88-8cda-3a1a73e6a277.png)
+## RemixIDE
+![Screenshot_20230212_110350](https://user-images.githubusercontent.com/113739944/218394521-bc242030-8ba5-4e57-8b40-f2cd23446a36.png)
 
 ---
 ## Contributors
